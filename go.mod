@@ -6,6 +6,6 @@ require (
 	github.com/golang/protobuf v1.4.2
 	github.com/hashicorp/golang-lru v0.5.4
 	github.com/jpillora/backoff v1.0.0
-	go.uber.org/zap v1.14.1
+	go.uber.org/zap v1.15.0
 	google.golang.org/protobuf v1.24.0
 )
